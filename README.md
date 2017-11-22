@@ -20,6 +20,8 @@ Currently planned features are:
 - [ ] Integrated assembler
 - [ ] Integrated SDCC compiler
 
+Estimated First Release (with very little done): 30 Dec 2017! (with help from people this can become a reality earlier)
+
 ## Credits & Original Author ##
 
 This project is heavily based (and borrows all emulation code) from Konamiman's original project, which can be found [here](https://github.com/Konamiman/Z80dotNet).
