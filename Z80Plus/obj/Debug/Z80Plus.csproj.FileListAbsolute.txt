@@ -1,0 +1,11 @@
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\bin\Debug\Z80Plus.exe.config
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\bin\Debug\Z80Plus.exe
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\bin\Debug\Z80Plus.pdb
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\obj\Debug\Z80Plus.csprojResolveAssemblyReference.cache
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\obj\Debug\Z80Plus.Form1.resources
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\obj\Debug\Z80Plus.Properties.Resources.resources
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\obj\Debug\Z80Plus.csproj.GenerateResource.Cache
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\obj\Debug\Z80Plus.csproj.CoreCompileInputs.cache
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\obj\Debug\Z80Plus.exe
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\obj\Debug\Z80Plus.pdb
+C:\Users\paperspace\source\repos\Z80Plus\Z80Plus\bin\Debug\Z80dotNet.dll
